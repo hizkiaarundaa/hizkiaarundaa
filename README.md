@@ -1,31 +1,32 @@
-# 👋 Hi, I'm Hizkia Albert Arundaa
+# 👋 Halo, saya Hizkia Albert Arundaa
 
-I'm an active Informatics Engineering student at Politeknik Negeri Manado with a strong interest in web development. I enjoy building responsive and functional websites using modern tools and frameworks. Currently, I'm deepening my understanding of JavaScript and its ecosystem — particularly React and Next.js.
-
----
-
-## 💼 Short Profile
-🎓 **Education**  
-- **Politeknik Negeri Manado** – D-IV Informatics (2023 – Present)  
-- **SMA Negeri 1 Tutuyan** – Natural Science (2020 – 2023)
-
-🛠️ **Skills**  
-- **Frontend**: React.js (proficient), Next.js (learning), Tailwind CSS (proficient), DaisyUI (proficient), ShadCN UI (basic)  
-- **Backend**: Express.js (proficient), MongoDB (basic)  
-- **Other**: Teamwork, Communication, Fast Learner, Independent & Collaborative Work
-
-🧪 **Recent Projects**  
-- Web-based UMKM Project (Frontend & UI/UX – Academic)  
-- Android App Collaboration (Academic)  
-
-🏆 **Achievements**  
-- 🥇 1st Place OSN Mathematics – Kecamatan Modayag (SD, 2016)  
-- 🥇 1st Place OSN Mathematics – Bolaang Mongondow Timur (SMP, 2019)  
-- 🥉 3rd Place Karate Kata Team – Minahasa Tenggara Bupati Cup (2017)
+Saya adalah mahasiswa aktif Program Studi D-IV Informatika di Politeknik Negeri Manado dengan minat besar dalam pengembangan web. Saya memiliki pemahaman dasar hingga menengah dalam penggunaan berbagai teknologi modern, seperti React.js, TailwindCSS, dan Express.js. Saat ini, saya sedang memperdalam kemampuan saya di ekosistem JavaScript, khususnya pada framework Next.js.
 
 ---
 
-## 💻 Tech Stack
+## 📌 Profil Singkat
+🎓 **Pendidikan**  
+- **Politeknik Negeri Manado** – D-IV Informatika (2023 – Sekarang)  
+- **SMA Negeri 1 Tutuyan** – Jurusan IPA (2020 – 2023)
+
+🛠️ **Keahlian**  
+- **Frontend**: React.js (mahir), Next.js (dasar), TailwindCSS (mahir), DaisyUI (mahir), ShadCN UI (dasar)  
+- **Backend**: Express.js (mahir), MongoDB (dasar)  
+- **Kemampuan Lain**: Kerja sama tim, komunikasi efektif, cepat belajar, mampu bekerja mandiri maupun dalam tim
+
+📂 **Aktivitas & Proyek Terbaru**  
+- Pengembangan Website untuk UMKM (Proyek Tugas Kampus)  
+- Desain UI/UX Website UMKM (Proyek Tugas Kampus)  
+- Kontribusi dalam Pengembangan Aplikasi Android (Tugas Kampus)
+
+🏆 **Pencapaian**  
+- 🥇 Juara 1 OSN Matematika Tingkat Kecamatan Modayag (SD, 2016)  
+- 🥇 Juara 1 OSN Matematika Tingkat Kabupaten Bolaang Mongondow Timur (SMP, 2019)  
+- 🥉 Juara 3 Kata Beregu – Bupati Cup Minahasa Tenggara (2017)
+
+---
+
+## 💻 Teknologi yang Dikuasai
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -34,7 +35,7 @@ I'm an active Informatics Engineering student at Politeknik Negeri Manado with a
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Media Sosial
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hizkiaarundaa)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hizkiaarundaa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hizkiaarundaa)
@@ -44,8 +45,8 @@ I'm an active Informatics Engineering student at Politeknik Negeri Manado with a
 
 ---
 
-📫 **Contact**  
-📧 kay190505@gmail.com  
-📱 +62 851 8242 9263  
+📫 **Kontak**  
+📧 Email: kay190505@gmail.com  
+📱 Telepon/WhatsApp: +62 851 8242 9263  
 
-<!-- Created with ❤️ by Hizkia Albert Arundaa -->
+<!-- Dibuat dengan semangat oleh Hizkia Albert Arundaa -->
