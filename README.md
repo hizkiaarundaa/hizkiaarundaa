@@ -43,6 +43,6 @@ Saya adalah mahasiswa aktif Program Studi D-IV Informatika di Politeknik Negeri 
 
 📫 **Kontak**  
 📧 Email: kay190505@gmail.com  
-📱 Telepon/WhatsApp: +62 851 8242 9263  
+📱 Telepon/WhatsApp: +62-851-8242-9263  
 
 <!-- Dibuat dengan semangat oleh Hizkia Albert Arundaa -->
